@@ -1,12 +1,7 @@
 
-Logotipo do NotebookLM
 Cash Management
 Fontes
 🔎
-Teste o Deep Research para gerar um relatório detalhado e novas fontes!
-Pesquise novas fontes na web
-Selecionar todas as fontes
-
 Relatório do Deep Research: A Arquitetura Tecnológica do Cash Management no Brasil: Uma Análise das Integrações de APIs e Ecossistemas de Open Finance para a Gestão de Fluxo de Caixa Corporativo
 
 Relatório do Deep Research: Análise Estratégica dos Meios de Pagamento e Recebimento no Ecossistema Corporativo Brasileiro
@@ -238,4 +233,5 @@ Inter: APIs e SDKs
 BTG Pactual Empresas: Recurring Pix
 Transfeera: Split de pagamentos
 O NotebookLM pode gerar respostas incorretas. Por isso, cheque o conteúdo.
+
 Resposta pronta.
