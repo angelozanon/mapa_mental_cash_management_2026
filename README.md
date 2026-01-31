@@ -1,0 +1,1 @@
+# mapa_mental_cash_management_2026
